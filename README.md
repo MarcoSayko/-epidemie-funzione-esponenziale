@@ -1,2 +1,3 @@
-# -epidemie-funzione-esponenziale
-Simulazione della diffusione di un’epidemia mediante un modello di crescita esponenziale sviluppato in Python con interfaccia grafica e visualizzazione dei dati tramite grafici
+# Marco Sayko - Capolavoro A.S. 2025/2026
+
+![Screenshot del programma](screenshot.png)
